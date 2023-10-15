@@ -9,6 +9,6 @@ H1    New line in the sand.
     -   git
     - git init
     - git add <file>
-    - git commit -m (-m to put a coment)
+    - git commit -m "coment" (-m to put a coment)
     - git remote add <name-remote: origin> <remote-url: ssh-respositore-url-.git>
     - git push..
