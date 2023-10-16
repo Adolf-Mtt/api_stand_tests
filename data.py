@@ -10,3 +10,5 @@ user_body = {
 product_ids = {
     "ids": [1, 2, 3]
 }
+
+variable = { "function" : 1, "object": 2 }
