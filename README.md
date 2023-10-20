@@ -1,9 +1,13 @@
-﻿# Pruebas para el parámetro firstName al crear un/a usuario/a en []
+﻿# Pruebas para el parámetro `name` al crear un Kit en la DB
 - Necesitas tener instalados los paquetes pytest y request para ejecutar las pruebas.
 - Ejecuta todas las pruebas con el comando pytest.
 
-H1    New line in the sand.
-  H2 with space.
+## El archivo `main.py` 
+> Contiene la función principal `if __name__ == '__main__':`.
+> 
+> Se debe ejecutar necesarimente por lo menos una vez antes de realizar/ejecutar las pruebas con pytest.
+> Debido a que en esta parte se puede crear el primer usuario necesario para las pruebas. 
+
 
 - Uses commands:
     -   git
