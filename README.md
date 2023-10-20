@@ -9,10 +9,18 @@
 > Debido a que en esta parte se puede crear el primer usuario necesario para las pruebas. 
 
 
-- Uses commands:
-    -   git
-    - git init
-    - git add <file>
-    - git commit -m "coment" (-m to put a coment)
-    - git remote add <name-remote: origin> <remote-url: ssh-respositore-url-.git>
-    - git push..
+#BIG **BIG** ~BIG~
+
+[comment]: <> (- Uses commands:)
+
+[comment]: <> (    -   git)
+
+[comment]: <> (    - git init)
+
+[comment]: <> (    - git add <file>)
+
+[comment]: <> (    - git commit -m "coment" &#40;-m to put a coment&#41;)
+
+[comment]: <> (    - git remote add <name-remote: origin> <remote-url: ssh-respositore-url-.git>)
+
+[comment]: <> (    - git push..)
